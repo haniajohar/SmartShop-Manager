@@ -64,7 +64,9 @@ This C++ program simulates an ordering system for a warehouse that offers produc
 ## Example Usage
 ### Menu:
 ************************ WareHouse ************************ 
+
 Location: Bahria University (E-8 ISLAMABAD)
+
 ************************ Operations ************************
 
 Display the product and prices
