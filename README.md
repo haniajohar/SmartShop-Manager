@@ -1,4 +1,4 @@
-# Warehouse Ordering System
+# SmartShop-Manager
 
 ## Overview
 This C++ program simulates an ordering system for a warehouse that offers products with options for both **Take-Away** and **Home Delivery** services. Customers can place orders, view products, and manage their orders by interacting with the system.
